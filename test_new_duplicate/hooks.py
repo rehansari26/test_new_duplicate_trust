@@ -1,8 +1,8 @@
 app_name = "test_new_duplicate"
 app_title = "Test New Duplicate"
-app_publisher = "rehan"
-app_description = "hsjasl"
-app_email = "test@noemail.com"
+app_publisher = "hjs"
+app_description = "pl"
+app_email = "rehan@Jk.com"
 app_license = "mit"
 
 # Apps
